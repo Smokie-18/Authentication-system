@@ -1,0 +1,40 @@
+{
+
+  "main": "index.js",
+
+  "type": "module",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "dev": "npx nodemon server.js"
+
+  },
+
+  "dependencies": {
+
+    "cookie-parser": "^1.4.7",
+
+    "cookieparser": "^0.1.0",
+
+    "dotenv": "^17.3.1",
+
+    "express": "^5.2.1",
+
+    "git": "^0.1.5",
+
+    "init": "^0.1.2",
+
+    "jsonwebtoken": "^9.0.3",
+
+    "mongoose": "^9.3.1",
+
+    "morgan": "^1.10.1",
+
+    "nodemon": "^3.1.14"
+
+  }
+
+}
+
